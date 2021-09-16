@@ -1,6 +1,8 @@
 ![Web Bootstrap header](assets/header.jpg)
 
-[Lobe](http://lobe.ai/) is a free, easy to use app that has everything you need to bring your machine learning ideas to life.
+## About the Project
+Project OverWatch aims at providing realtime detection of accident from live CCTV footage. This project aims at helping government identify accidents in public roads and alert the police and concerend authorities, so that the medical care can be provided,if needed. It also aims at helping out solving hit-and-run cases,as it will record every accident scenerio.
+This Project is made with the help of Microsoft Lobe. [Lobe](http://lobe.ai/) is a free, easy to use app that has everything you need to bring your machine learning ideas to life.
 Web Bootstrap takes the machine learning model created in Lobe, and adds it to a project in the browser that uses
 [React](https://reactjs.org), [Create React App](https://github.com/facebook/create-react-app), [TypeScript](https://www.typescriptlang.org/), and [TensorFlow.js](https://www.tensorflow.org/js).
 
